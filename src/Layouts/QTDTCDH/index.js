@@ -11,6 +11,7 @@ import Section5p3 from "./Section5p3";
 import Section6 from "../../Components/Section6";
 import Section7 from "../../Components/Section7";
 import Footer from "./Footer";
+import Button from "../../Components/Button";
 
 function LayoutDefault(){
     return(
@@ -24,6 +25,11 @@ function LayoutDefault(){
                 <Section5p2 />
                 <Section5p3 />
                 <Section7 />
+                <div className="container" style={{backgroundColor: "white"}}>
+                    <a href="/"style={{display: "flex", width: "100%", justifyContent:"center", margin:"24px"}}>
+                        <Button/>
+                    </a>
+                </div>
                 <Footer/>
             </div>
         </>

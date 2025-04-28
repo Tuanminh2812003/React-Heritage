@@ -8,6 +8,7 @@ import Section4 from "./Section4";
 import Section5 from "./Section5";
 import Section7 from "./Section7";
 import Footer from "./Footer";
+import Button from "../../Components/Button";
 
 function LayoutDefault(){
     return(
@@ -24,6 +25,11 @@ function LayoutDefault(){
                 </div>
                 <Section2/>
                 <Section7/>
+                <div className="container" style={{backgroundColor: "white"}}>
+                    <a href="/"style={{display: "flex", width: "100%", justifyContent:"center", margin:"24px"}}>
+                        <Button/>
+                    </a>
+                </div>
                 <Footer/>
             </div>
         </>
