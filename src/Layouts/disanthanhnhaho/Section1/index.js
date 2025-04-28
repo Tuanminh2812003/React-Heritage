@@ -20,7 +20,7 @@ function Section1(){
                         <label className="Section1__menu__inner__tab lable1" for="inner1">Di tích lịch sử nổi tiếng xứ Thanh</label>
                         <label className="Section1__menu__inner__tab lable2" for="inner2">Hào thành</label>
                         <label className="Section1__menu__inner__tab lable3" for="inner3">La thành</label>
-                        <label className="Section1__menu__inner__tab lable4" for="inner4">Di sản Văn hóa thế giới</label>
+                        <label className="Section1__menu__inner__tab lable4" for="inner4">Hành trình di sản</label>
                     </div>
                 </div>
             </div>
@@ -202,7 +202,7 @@ function Section1(){
                                     La thành
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Phía trước Hào thành là La thành - tòa thành đất cao 6m, rộng 9.2m, mặt ngoài dốc đứng, phía trong thoai thoải, mỗi bậc cao 1.5m có lát sỏi để gia cố, có chức năng bảo vệ tòa thành và phòng chống lũ.
+                                    La thành hiện tại là tòa thành đất cao 6m, bề mặt rộng 9.2m, mặt ngoài dốc đứng, phía trong thoai thoải, mỗi bậc cao 1.5m, một số vị trí có lát thêm sỏi để gia cố. Toàn bộ La thành xây dựng dựa theo địa hình tự nhiên, tạo nên bức tường thiên nhiên hùng vĩ, có chức năng bảo vệ tòa thành và phòng chống lũ lụt.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
@@ -223,10 +223,19 @@ function Section1(){
                         <div className="Section1__content__inner__row">
                             <div className="Section1__content__inner__row__text">
                                 <div className="Section1__content__inner__title">
-                                    Di sản văn hóa thế giới
+                                    Hành trình di sản
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Tháng 6/2011, Thành nhà Hồ chính thức được UNESCO công nhận là Di sản Văn hóa thế giới, chứng minh ý nghĩa và giá trị lịch sử của thành nhà Hồ.
+                                    Năm 1962, Di tích Thành Nhà Hồ đã được Bộ Văn hoá - Thể thao và Du lịch xếp hạng là di tích cấp quốc gia.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Ngày 27/6/2011, tại Kỳ họp lần thứ 35 của Ủy ban Di sản Thế giới ở Paris, Cộng hòa Pháp, Ủy ban Di sản Thế giới đã chính thức quyết định đưa Di tích Thành Nhà Hồ (Thanh Hóa) vào Danh mục Di sản Văn hóa và Thiên nhiên Thế giới.. Với hai tiêu chí: 
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Một là, thể hiện được sự ảnh hưởng và các giá trị nhân văn qua một thời kỳ lịch sử của quốc gia hay khu vực trên thế giới. Có những đóng góp quý báu về kiến trúc, công nghệ, điêu khắc....
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Hai là, thành Nhà Hồ (Thanh Hoá) là công trình cổ xưa, khắc hoạ được giá trị của một hay nhiều giai đoạn trong lịch sử nhân loại.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">

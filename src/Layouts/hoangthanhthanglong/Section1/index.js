@@ -34,10 +34,16 @@ function Section1(){
                                     Di tích Kỳ đài (Cột cờ Hà Nội)
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Kỳ đài, thường gọi là Cột cờ Hà Nội, là một trong những công trình kiến trúc quý báu còn lại thuộc khu vực Thành cổ Hà Nội. Trải qua mọi khắc nghiệt của thời gian, Cột cờ Hà Nội vẫn đứng sừng sững mang lá cờ Tổ quốc, trở thành biểu tượng vinh quang và là niềm tự hào của dân tộc Việt Nam. 
+                                    Kỳ đài (hay Cột cờ Hà Nội) nằm trên đường Điện Biên Phủ, thuộc quận Ba Đình, Hà Nội, được xây dựng năm 1812, dưới thời Vua Gia Long trên phần đất phía nam của Hoàng thành Thăng Long, nơi xây tòa thành Tam Môn của Hoàng thành Thăng Long thời Lê. Từ đây theo con đường “ngự đạo” qua Đoan Môn đến trung tâm Hoàng Thành là Điện Kính Thiên. 
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Kỳ đài cao 33,4m, gồm ba tầng đế và một thân cột. Các tầng đế hình chóp vuông cụt, nhỏ dần, chồng lên nhau, xung quanh xây ốp gạch. Đi qua hai thang gạch dẫn lên tầng hai sẽ có 4 cửa, phía trên mỗi cửa khắc các chữ Hán như: "Nghênh Húc" (đón ánh sáng ban mai) ở phía Đông, "Hồi Quang" (ánh sáng phản chiếu) ở phía Tây, “Hướng Minh" (hướng về ánh sáng) ở phía Nam, cửa Bắc không có chữ đề. Tầng ba có cửa lên cầu thang trông về hướng Bắc, phía trên tầng ba sẽ là thân Cột cờ.
+                                    Cột Cờ được xây dựng bao gồm ba tầng đế và một thân cột. Các tầng đế hình chóp vuông cụt, nhỏ dần, chồng lên nhau, xung quanh xây ốp gạch. 
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Ở tầng ba có cửa lên cầu thanh trông về hướng Bắc. Trên tầng này là thân Cột Cờ, cao 18,2m; hình trụ tám cạnh, thon dần lên trên, mỗi cạnh đáy chừng 2m. Trong thân có cầu thang 54 bậc xây xoáy trôn ốc lên tới đỉnh. Toàn thể được soi sáng (và thông hơi) bằng 39 lỗ hình dẻ quạt. Đỉnh Cột Cờ được cấu tạo thành một cái lầu hình bát giác, giữa lầu là một hình trụ tròn, đường kính 40cm cao đến đỉnh lầu, là chỗ để cắm cán cờ (cán cờ cao 8m). Toàn bộ Cột Cờ cao 33,4m, nếu kể cả cán cờ thì là 41,4m.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Ngày 10/10/1954, lần đầu tiên lá cờ đỏ sao vàng – cờ Tổ quốc tung bay trên đỉnh “Cột cờ Hà Nội”. Nhân dân Hà Nội tưng bừng rạo rực chào đón ngày hội lớn, ngày Hội chiến thắng, Thủ đô Hà Nội hoàn Tòan giải phóng. Cả Hà Nội dồn về “Cột cờ Hà Nội” chờ đón giây phút lịch sử: Lễ thượng cờ Tổ quốc trên đỉnh “Cột cờ Hà Nội”.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
@@ -49,6 +55,15 @@ function Section1(){
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Nguồn: <b>Báo VnExpress (Kiều Dương)</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/hoangthanhthanglong/2.1new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>"Người dân hân hoan hướng về lá quốc kỳ tung bay trên Cột cờ Hà Nội trong ngày Thủ đô được giải phóng, ngày 10/10/1954”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>Tư liệu Thông tấn xã Việt Nam</b>
                                 </div>
                             </div>
                         </div>
@@ -175,10 +190,10 @@ function Section1(){
                                     Di tích Chính Bắc Môn
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Chính Bắc Môn còn gọi là Bắc Môn hay Cửa Bắc, là cổng thành duy nhất còn lại của Thành Hà Nội thời Nguyễn, xây dựng năm 1805. Bắc Môn được thiết kế theo lối vọng lâu – phần lầu ở trên còn phần thành ở dưới.
+                                    Bắc Môn (Cửa Bắc) được nhà Nguyễn xây dựng năm 1805 trên nền Cửa Bắc thời Lê theo lối vọng lâu – phần lầu ở trên còn phần thành ở dưới, cao 8,71m, rộng 17,08m, tường dày 20,48m. Phần lầu được dựng bằng khung gỗ theo lối chồng diêm tám mái, lợp ngói ta, trổ cửa ra bốn hướng. 
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Đây không chỉ là một di tích còn sót lại của khu Thành cổ Hà Nội mà còn là minh chứng cho những cuộc chiến đấu anh dũng của quân dân Hà Nội trong những ngày đầu chống lại sự xâm lăng của thực dân Pháp chiếm Thành Hà Nội.
+                                    Phía ngoài Bắc Môn vẫn còn lưu dấu 2 vết đạn thần công của Pháp khi chúng dùng chiến thuyền tấn công thành Hà Nội từ phía bờ sông Hồng. Lúc phá thành cổ Hà Nội, thực dân Pháp đã cố ý bớt lại Bắc Môn, vừa để làm vọng canh, lại vừa để khoe “chiến tích” đánh chiếm Hà thành.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">

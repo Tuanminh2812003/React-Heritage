@@ -46,10 +46,7 @@ function SectionMain(){
                                 Nêu được vị trí và giới thiệu được khái quát về di sản Quan họ Bắc Ninh.
                             </li>
                             <li>
-                                Biết cách sưu tầm và sử dụng tư liệu lịch sử để tìm hiểu về Quan họ Bắc Ninh.
-                            </li>
-                            <li>
-                                Vận dụng kiến thức đã đọc, nhận thức được giá trị của di sản, có ý thức bảo tồn đối với công cuộc bảo tồn và phát huy giá trị di sản văn hóa.
+                                Nâng cao, nhận thức được giá trị của di sản, có ý thức bảo tồn đối với công cuộc bảo tồn và phát huy giá trị di sản văn hóa.
                             </li>
                         </ul>
                     </div>

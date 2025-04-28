@@ -19,7 +19,7 @@ function Section1(){
                     <div className="Section1__menu__inner">
                         <label className="Section1__menu__inner__tab lable1" for="inner1">Giới thiệu khái quát</label>
                         <label className="Section1__menu__inner__tab lable2" for="inner2">Quy trình chế tác Mộc bản</label>
-                        <label className="Section1__menu__inner__tab lable3" for="inner3">Lịch sử hình thành</label>
+                        <label className="Section1__menu__inner__tab lable3" for="inner3">Nội dung mộc bản</label>
                         {/* <label className="Section1__menu__inner__tab lable4" for="inner4">Di tích Nhà cách mạng D67</label> */}
                     </div>
                 </div>
@@ -34,7 +34,7 @@ function Section1(){
                                     Giới thiệu khái quát
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Mộc bản triều Nguyễn là những bản khắc gỗ chứa đựng các tài liệu hành chính, pháp lý, văn hóa và khoa học. Điểm nổi bật trong kỹ thuật chế tác Mộc bản triều Nguyễn chính là nghệ thuật khắc họa tỉ mỉ từng đường nét rồng bay, phượng múa, hoa văn, họa tiết, bản đồ, họa đồ và hình ấn triện của nhà vua. Quá trình chế tác chủ yếu sử dụng kỹ thuật khắc ngược ký tự Hán Nôm trên gỗ để in sách, phục vụ nhu cầu sử dụng trong thời kỳ phong kiến. Đến nay, nhiều mộc bản vẫn được bảo tồn, trở thành tư liệu lịch sử quý giá, góp phần gìn giữ và truyền bá tri thức, văn hóa qua các thế hệ.
+                                    Mộc bản là những bản gỗ khắc chữ Hán Nôm ngược dùng để in ra các sách được sử dụng phổ biến dưới triều Nguyễn. Đây là những bản khắc gỗ chứa đựng các tài liệu hành chính, pháp lý, văn hóa và khoa học. Điểm nổi bật trong kỹ thuật chế tác Mộc bản triều Nguyễn chính là nghệ thuật khắc họa tỉ mỉ từng đường nét rồng bay, phượng múa, hoa văn, họa tiết, bản đồ, họa đồ và hình ấn triện của nhà vua. Hiện 34.555 tấm mộc bản đang được bảo quản tại Trung tâm Lưu trữ Quốc gia 4 - trực thuộc Cục Văn thư và Lưu trữ Nhà nước, có nội dung rất phong phú và được chia làm chín chủ đề: lịch sử, địa lý, quân sự, pháp chế, văn thơ, tôn giáo - tư tưởng - triết học, ngôn ngữ - văn tự, chính trị - xã hội, văn hóa - giáo dục.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
@@ -43,6 +43,24 @@ function Section1(){
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Ảnh: <b>“Mộc bản triều Nguyễn”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>Trung tâm Lưu trữ Quốc gia IV</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/mocbantrieunguyen/1.1new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Mộc bản triều Nguyễn được bảo quản cẩn thận tại Trung tâm Lưu trữ quốc gia IV – Đà Lạt ”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>Trung tâm Lưu trữ quốc gia IV</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/mocbantrieunguyen/1.2new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Mộc bản triều Nguyễn ”</b>
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
                                     Nguồn: <b>Trung tâm Lưu trữ Quốc gia IV</b>
@@ -113,6 +131,15 @@ function Section1(){
                                 <div className="Section1__content__inner__video" style={{margin: "0px"}}>
                                     <iframe width="100%" height="200px" src="https://www.youtube.com/embed/G-deVhlkQ8w?si=-THGgVpXop9OfFyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                 </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/mocbantrieunguyen/2.1new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Quy trình chế tác Mộc bản”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>Trung tâm Lưu trữ Quốc gia IV</b>
+                                </div>
                             </div>
                         </div>
                         {/* <div className="Section1__content__inner__text">
@@ -166,10 +193,40 @@ function Section1(){
                         <div className="Section1__content__inner__row">
                             <div className="Section1__content__inner__row__text">
                                 <div className="Section1__content__inner__title">
-                                    Lịch sử hình thành
+                                    Nội dung mộc bản
                                 </div>
                                 <div className="Section1__content__inner__text">
-                                    Sau khi lập vương triều năm 1802, các vua Nguyễn đặc biệt chú trọng biên soạn lịch sử để củng cố quyền lực, ổn định xã hội và truyền bá chính sách. Năm 1811, Vua Gia Long thành lập Sử cục, tiền thân của Quốc Sử quán, với nhiệm vụ thu thập tư liệu và soạn "Quốc triều thực lục". Đến năm 1820, Vua Minh Mệnh chính thức lập Quốc Sử quán, cơ quan chịu trách nhiệm biên soạn, khắc in và lưu giữ sử sách như "Đại Nam thực lục", "Đại Nam nhất thống chí" và nhiều tác phẩm quý giá khác. Ngoài ra, Nội các thành lập năm 1829 cũng đóng góp nhiều công trình sử học quan trọng, phản ánh sự quan tâm đặc biệt của triều Nguyễn đến việc ghi chép lịch sử và truyền lại cho hậu thế.
+                                    Nội dung của khối tài liệu mộc bản triều Nguyễn rất phong phú và đa dạng, phản ánh mọi mặt về xã hội Việt Nam dưới triều Nguyễn.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Về lịch sử: có 30 bộ sách gồm 836 quyển, ghi chép về lịch sử Việt Nam từ thời Hùng Vương dựng nước cho đến triều Nguyễn. Đây là nguồn tư liệu đáng tin cậy và có tính chính xác cao. Trong 34.619 tấm Mộc bản, có một bản khắc bài “Nam quốc sơn hà”. 
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Về địa lý: có hai bộ sách gồm 20 quyển, ghi chép về địa lý của nước Việt Nam đã thống nhất và ghi chép về hoàng thành Huế. Đặc biệt, trong khối tài liệu quý giá này có những bản khắc mộc bản mang nội dung khẳng định chủ quyền thiêng liêng của Việt Nam đối với quần đảo Hoàng Sa. 
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Về chính trị xã hội: có năm bộ sách gồm 16 quyển, ghi chép về sách lược của các triều đại phong kiến Việt Nam.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Về quân sự: có năm bộ sách gồm 151 quyển, ghi chép về việc đánh dẹp các cuộc nổi dậy ở Bắc kỳ, Nam kỳ, Bình Thuận và một số nơi khác.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Về pháp chế: có 12 bộ sách gồm 500 quyển, ghi chép về các điển chế và pháp luật triều Nguyễn.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Về văn hóa - giáo dục: có 31 bộ sách gồm 93 quyển, ghi chép về những nhân vật đỗ cử nhân, tiến sĩ triều Nguyễn.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Về tư tưởng triết học - tôn giáo: có 13 bộ sách gồm 22 quyển, ghi chép về phương pháp tiếp cận kinh điển Nho gia.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Về văn thơ: có 39 bộ gồm 265 quyển, ghi chép thơ văn của các bậc đế vương và Nho gia nổi tiếng Việt Nam.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Về ngôn ngữ văn tự: có 14 bộ sách gồm 50 quyển, giải nghĩa Luận ngữ bằng thơ Nôm.
+                                </div>
+                                <div className="Section1__content__inner__text">
+                                    Về quan hệ quốc tế: tài liệu mộc bản triều Nguyễn còn có giá trị khi tìm hiểu lịch sử và văn hóa các nước khác trên thế giới như: Lào, Campuchia, Thái Lan, Trung Quốc, Pháp...
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">

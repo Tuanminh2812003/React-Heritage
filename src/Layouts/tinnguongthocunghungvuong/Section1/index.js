@@ -7,7 +7,7 @@ function Section1(){
             <div className="Section1__title">
                 <div className="container">
                     <div className="Section1__title__inner">
-                    Câu chuyện tâm linh
+                        CÂU CHUYỆN KẾT NỐI
                     </div>
                 </div>
             </div>

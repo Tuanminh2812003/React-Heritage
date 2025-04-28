@@ -4,10 +4,10 @@ import { MdNavigateNext, MdNavigateBefore } from "react-icons/md";
 function Section4() {
     const [currentSlide, setCurrentSlide] = useState(0);
     const slides = [
-        "/image/tinnguongthocunghungvuong/2.1new.jpg",
-        "/image/tinnguongthocunghungvuong/2.2new.jpg",
-        "/image/tinnguongthocunghungvuong/2.3new.jpg",
-        "/image/tinnguongthocunghungvuong/2.4new.jpg",
+        "/image/disanthanhnhaho/3.1new.jpg",
+        "/image/disanthanhnhaho/3.2new.jpg",
+        "/image/disanthanhnhaho/3.3new.webp",
+        "/image/disanthanhnhaho/3.4new.jpg",
     ];
 
     const handleNextClick = () => {
@@ -34,7 +34,7 @@ function Section4() {
     return (
         <div className="Section4">
             <div className="Section4__title">
-                DẤU ẤN TÍN NGƯỠNG THỜ CÚNG HÙNG VƯƠNG 
+                CÂU CHUYỆN DI SẢN 
             </div>
             <div className="Section4__slider">
                 {slides.map((slide, index) => (
@@ -64,13 +64,13 @@ function Section4() {
                     index === currentSlide ? (
                     <div key={index} className="Section4__text__inner">
                         {index === 0 &&
-                        `Khu Di tích lịch sử Đền Hùng thuộc thôn Cổ Tích, xã Hy Cương, thành phố Việt Trì, tỉnh Phú Thọ; là nơi thờ các vua Hùng có công dựng nước, Tổ Tiên của dân tộc Việt Nam. Cổng đền được xây dựng vào năm Khải Định thứ 2 (1917). Kiến trúc vòm cuốn cao 8,5m, hai tầng 8 mái, lợp giả ngói ống. Tầng dưới có một cửa vòm cuốn lớn, đầu cột trụ cổng tầng trên có cửa vòm nhỏ hơn, 4 góc tầng mái trang trí Rồng, đắp nổi hai con Nghê. Giữa tầng một có đề bức đại tự: “Cao sơn cảnh hành” (lên núi cao nhìn xa rộng), cũng có người dịch là “Cao sơn cảnh hạnh” (Đức lớn như núi cao). `}
+                        `Bốn cổng chính được xây dựng bằng những phiến đá vôi màu xanh, được đục đẽo tinh xảo, vuông vức, xếp chồng khít lên nhau mà không cần chất kết dính. Các phiến đá dài trung bình 1,5m, có tấm dài tới 6m, trọng lượng ước nặng 24 tấn. Tổng khối lượng đá được sử dụng xây thành khoảng 20.000m3 và gần 100.000m3 đất được đào đắp công phu.`}
                         {index === 1 &&
-                        `Đền Hạ xây theo kiến trúc kiểu chữ “nhị” gồm hai toà tiền bái và hậu cung, mỗi toà ba gian, cách nhau 1,5m. Kiến trúc đơn sơ kèo cầu suốt, bẩy gối vào đầu kèo làm cho mái sau dài hơn mái trước. Đốc xây liền tường với đốc Hậu cung, hai bên đắp phù điêu, một bên voi, một bên ngựa.`}
+                        `Nét hoa văn mang dấu ấn kiến trúc thời nhà Hồ trên con rồng bằng đá được chạm khắc rất tỉ mỉ, trau chuốt. Thân rồng thon nhỏ dần về phía đuôi, uốn bảy khúc, vây lưng nhỏ, đều. Rồng có bốn chân, mỗi chân 3 móng với các túm lông lượn mềm mại. Đầu rồng hiện đã bị mất nhưng vẫn còn lại phần bờm dài lượn chín nếp. `}
                         {index === 2 &&
-                        `Đền Thượng ở trên đỉnh núi Hùng có tên chữ là “Kính thiên lĩnh điện” (Điện cầu trời) còn có tên là “Cửu trùng tiên điện” (Điện giữa chín tầng mây). Tương truyền rằng thời Hùng Vương, đây là nơi các vua Hùng làm lễ tế Trời đất, thần Núi và thần Lúa; cũng là nơi Thục Phán sau khi lên ngôi dựng cột đá thề sẽ trông nom ngôi đền và giữ gìn cơ nghiệp vua Hùng. Đền Thượng được đặt trên đỉnh núi, nơi ngày xưa theo truyền thuyết các Vua Hùng thường lên tiến hành các nghi lễ, tín ngưỡng của cư dân nông nghiệp thờ trời đất, thờ thần lúa, cầu mong mưa thuận gió hòa, mùa màng tươi tốt, nhân khang vật thịnh. Ngoài cổng đền có dòng đại tự: "Nam Việt triệu tổ" (tổ tiên của người Việt phương Nam). `}
+                        `Bãi đạn đá ở cổng Nam mới mở khai quật trên diện tích rộng khoảng hơn 100 m2, ghi nhận có 40 viên đạn đá (hình tròn). Các nhà khảo cổ nhận định bãi đạn đá này có thể có hàng trăm viên đạn. Ngoài ra, ở khu vực 4 cổng thành phát hiện nhiều di vật, như gạch hình chữ nhật có trang trí lá đề thời Trần - Hồ; ngói phẳng, ngói cong lòng máng màu xám thời Lê; gốm men thời Trần - Hồ và thời Lê sơ.`}
                         {index === 3 &&
-                        `Lễ hội Đền Hùng là một lễ hội lớn mang tính quốc gia để tưởng nhớ các vua Hùng đã có công dựng nước. Phần tế lễ được cử hành rất trọng thể mang tính quốc lễ. Lễ vật dâng cúng là “lễ tam sinh" (1 lợn, 1 dê và 1 bò), bánh chưng, bánh dày và xôi nhiều màu, nhạc khí là trống đồng cổ. Sau khi một hồi trống đồng vang lên, các vị chức sắc vào tế lễ dưới sự điều khiển của chủ lễ.`}
+                        `Các nhà khảo cổ học còn phát hiện dọc theo đường Hoàng gia có nhiều dấu tích, kiến trúc quan trọng, như hai kiến trúc cổng và một cụm kiến trúc trung tâm tại khu vực có hai thành bậc đá chạm rồng thời Trần - Hồ. Đặc biệt dấu tích cụm kiến trúc Con Rồng được đánh giá là kiến trúc quan trọng, dự đoán có thể nơi đây sẽ tìm thấy dấu tích Chính điện của Thành nhà Hồ.`}
                         {index === 4 &&
                         `Tản Viên Sơn khắc trên Thuần đỉnh - núi Tản Viên, ngọn núi thuộc tỉnh Hà Tây cũ, nay thuộc Ba Vì - Hà Nội. Tản Viên là ngọn núi gắn liền với truyền thuyết Sơn Tinh trị thuỷ.`}
                         {index === 5 &&

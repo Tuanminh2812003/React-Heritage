@@ -51,6 +51,15 @@ function Section1(){
                                 <div className="Section1__content__inner__video__disc">
                                     Nguồn: <b>Bộ Văn hóa Thể thao và Du lịch</b>
                                 </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/banducnoi/0.1.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Cửu đỉnh tại Hoàng thành Huế”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>Vi Thảo</b>
+                                </div>
                             </div>
                         </div>
                         {/* <div className="Section1__content__inner__text">
@@ -114,9 +123,87 @@ function Section1(){
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
-                                {/* <div className="Section1__content__inner__video">
-                                    <iframe width="100%" height="200px" src="https://www.youtube.com/embed/pxHCoqg_6Ts?si=9INg_YrmhlDRw7Bi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                                </div> */}
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/banducnoi/1.1new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Hình ảnh Cao đỉnh trước sân Thế Tổ Miếu”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>HinhanhVietNam.com</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/banducnoi/1.2new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Hình ảnh Nhân đỉnh trước sân Thế Tổ Miếu”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>HinhanhVietNam.com</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/banducnoi/1.3new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Hình ảnh Phương đỉnh trước sân Thế Tổ Miếu”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>HinhanhVietNam.com</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/banducnoi/1.4new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Hình ảnh Anh đỉnh trước sân Thế Tổ Miếu”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>HinhanhVietNam.com</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/banducnoi/1.5new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Hình ảnh Nghị đỉnh trước sân Thế Tổ Miếu”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>HinhanhVietNam.com</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/banducnoi/1.6new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Hình ảnh Dụ đỉnh trước sân Thế Tổ Miếu”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>HinhanhVietNam.com</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/banducnoi/1.7new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Hình ảnh Tuyên đỉnh trước sân Thế Tổ Miếu”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>HinhanhVietNam.com</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/banducnoi/1.8new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Hình ảnh Thuần đỉnh trước sân Thế Tổ Miếu”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>HinhanhVietNam.com</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/banducnoi/1.9new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Hình ảnh Huyền đỉnh trước sân Thế Tổ Miếu”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>HinhanhVietNam.com</b>
+                                </div>
                             </div>
                         </div>
                         {/* <div className="Section1__content__inner__text">

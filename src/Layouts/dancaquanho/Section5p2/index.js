@@ -63,6 +63,35 @@ function Section5(){
                                 </div>
                             </div>
                         </div>
+                        <div className="Section5__inner__row1">
+                            <div className="Section5__inner__row1__text">
+                                {/* <div className="Section5__inner__disc">
+                                   Giá trị nghệ thuật, giải trí
+                                </div> */}
+                                <div className="Section5__inner__text2">
+                                    Tại kỳ họp lần thứ 4 của Ủy ban Liên Chính phủ Công ước UNESCO Bảo vệ di sản văn hóa phi vật thể, diễn ra tại Abu Dhabi, thủ đô của Tiểu vương quốc A rập thống nhất từ ngày 28/9/2009 – 2/10/2009,  vào lúc 16.55 giờ (Abudhabi) tức 19.55 giờ (Việt Nam) ngày 30/9/2009, Quan họ Bắc Ninh  đã được Ủy ban long trọng công bố là Di sản Văn hóa phi vật thể Đại diện của Nhân loại.
+                                </div>
+                            </div>
+                            <div className="Section5__inner__row1__image"
+                                
+                            >
+                                    <div className="Section5__inner__row1__image__inner"
+                                    style={{backgroundImage: "url('/image/dancaquanho/2.1new.jpg')",
+                                        backgroundSize: "contain",
+                                        backgroundRepeat: "no-repeat",
+                                        backgroundColor: "white"
+                                    }}
+                                >
+
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Trao bằng công nhận của UNESSCO cho Dân ca quan họ”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>Dân ca Quan họ Bắc Ninh</b>
+                                </div>
+                            </div>
+                        </div>
                         {/* <div className="Section5__inner__row2">
                             <div className="Section5__inner__row1__text">
                                 <div className="Section5__inner__disc">

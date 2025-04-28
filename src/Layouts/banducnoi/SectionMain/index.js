@@ -48,9 +48,6 @@ function SectionMain(){
                                 Nêu được vị trí và giới thiệu được khái quát về di sản những bản đúc nổi trên chín đỉnh đồng ở Hoàng cung Huế.
                             </li>
                             <li>
-                                Biết cách sưu tầm và sử dụng tư liệu lịch sử để tìm hiểu về những bản đúc nổi trên chín đỉnh đồng Hoàng cung Huế.
-                            </li>
-                            <li>
                                 Nhận thức được giá trị của di sản, có ý thức bảo tồn đối với công cuộc bảo tồn và phát huy giá trị di sản văn hóa.
                             </li>
                         </ul>

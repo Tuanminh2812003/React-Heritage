@@ -22,8 +22,8 @@ function Section1(){
                     <div className="Section1__menu__inner">
                         <label className="Section1__menu__inner__tab lable1" for="inner1" style={{color:"#FFFFFF"}}>Linh hồn của nghi lễ cung đình</label>
                         <label className="Section1__menu__inner__tab lable2" for="inner2" style={{color:"#FFFFFF"}}>Ba hình thức biểu diễn độc đáo</label>
-                        {/* <label className="Section1__menu__inner__tab lable3" for="inner3">Lịch sử hình thành</label> */}
-                        {/* <label className="Section1__menu__inner__tab lable4" for="inner4">Di tích Nhà cách mạng D67</label> */}
+                        <label className="Section1__menu__inner__tab lable3" for="inner3" style={{color:"#FFFFFF"}}>Duyệt Thị Đường</label>
+                        <label className="Section1__menu__inner__tab lable4" for="inner4" style={{color:"#FFFFFF"}}>Cấu trúc nhạc chương</label>
                     </div>
                 </div>
             </div>
@@ -198,63 +198,93 @@ function Section1(){
                     <div className="Section1__content__inner inner3">
                         <div className="Section1__content__inner__row">
                             <div className="Section1__content__inner__row__text">
-                                <div className="Section1__content__inner__title">
-                                    Lịch sử hình thành
+                                <div className="Section1__content__inner__title" style={{color:"#FFFFFF"}}>
+                                    Duyệt Thị Đường
                                 </div>
-                                <div className="Section1__content__inner__text">
-                                    Sau khi lập vương triều năm 1802, các vua Nguyễn đặc biệt chú trọng biên soạn lịch sử để củng cố quyền lực, ổn định xã hội và truyền bá chính sách. Năm 1811, Vua Gia Long thành lập Sử cục, tiền thân của Quốc Sử quán, với nhiệm vụ thu thập tư liệu và soạn "Quốc triều thực lục". Đến năm 1820, Vua Minh Mệnh chính thức lập Quốc Sử quán, cơ quan chịu trách nhiệm biên soạn, khắc in và lưu giữ sử sách như "Đại Nam thực lục", "Đại Nam nhất thống chí" và nhiều tác phẩm quý giá khác. Ngoài ra, Nội các thành lập năm 1829 cũng đóng góp nhiều công trình sử học quan trọng, phản ánh sự quan tâm đặc biệt của triều Nguyễn đến việc ghi chép lịch sử và truyền lại cho hậu thế.
+                                <div className="Section1__content__inner__text" style={{color:"#FFFFFF"}}>
+                                    Duyệt Thị Đường là một công trình kiến trúc có quy mô lớn, với chức năng là nhà hát cung đình được xây dựng dưới thời vua Minh Mạng (1826). Duyệt Thị Đường trình diễn nhiều loại hình nghệ thuật như tuồng, kịch hát, ca Huế theo yêu cầu của nhà vua. 
+                                </div>
+                                <div className="Section1__content__inner__text" style={{color:"#FFFFFF"}}>
+                                    Nội thất của nhà hát được sơn son thếp vàng, trung tâm là 2 hàng cột gỗ lim có chiều cao 12m, xung quanh ba mặt Đông, Tây, Nam thiết kế 2 tầng có lan can che chắn. Trên trần nhà hát được trang trí chạm nổi hình ảnh mặt trời, mặt trăng và các vì tinh tú tượng trưng cho vũ trụ thu nhỏ.
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/mocbantrieunguyen/2.3.png" />
+                                    <img src="/image/nhanhaccungdinhhue/1.1new.jpg" />
                                 </div>
-                                <div className="Section1__content__inner__video__disc">
-                                    Ảnh: <b>“Tòa nhà Nội các - Nơi giúp nhà vua kiểm soát tất cả công văn, tấu sớ của địa phương và triều đình”</b>
+                                <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
+                                    Ảnh: <b>“Bên ngoài Duyệt Thị Đường – nhà hát cung đình Huế ”</b>
                                 </div>
-                                <div className="Section1__content__inner__video__disc">
-                                    Nguồn: <b>Trung tâm Lưu trữ Quốc gia I</b>
+                                <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
+                                    Nguồn: <b>Thế giới di sản điện tử</b>
                                 </div>
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/mocbantrieunguyen/2.4.png" />
+                                    <img src="/image/nhanhaccungdinhhue/1.2new.jpg" />
                                 </div>
-                                <div className="Section1__content__inner__video__disc">
-                                    Ảnh: <b>“Nơi lưu trữ công văn, giấy tờ đã được triều Nguyễn sử dụng biên soạn các bộ sử sách”</b>
+                                <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
+                                    Ảnh: <b>“Chi tiết về đường nét của kiến trúc nhà hát được chạm khắc vô cùng tinh xảo. ”</b>
                                 </div>
-                                <div className="Section1__content__inner__video__disc">
-                                    Nguồn: <b>Trung tâm Lưu trữ Quốc gia I</b>
+                                <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
+                                    Nguồn: <b>The HUE of Huế</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/nhanhaccungdinhhue/1.3new.jpg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
+                                    Ảnh: <b>“Sân khấu Duyệt Thị Đường ”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
+                                    Nguồn: <b>Khám phá Huế</b>
                                 </div>
                             </div>
                         </div>
                         
                     </div>
-                    {/* <div className="Section1__content__inner inner4">
+                    <div className="Section1__content__inner inner4">
                         <div className="Section1__content__inner__row">
                             <div className="Section1__content__inner__row__text">
-                                <div className="Section1__content__inner__title">
-                                    Di tích Nhà cách mạng D67
+                                <div className="Section1__content__inner__title" style={{color:"#FFFFFF"}}>
+                                    Cấu trúc nhạc chương
                                 </div>
-                                <div className="Section1__content__inner__text">
-                                    Di tích cách mạng Nhà D67 và Hầm D67 nằm ở khu A Sở chỉ huy Bộ Quốc phòng, trong khuôn viên di tích nền điện Kính Thiên.
+                                <div className="Section1__content__inner__text" style={{color:"#FFFFFF"}}>
+                                    Các nhạc chương của Nhã nhạc đều do Bộ Lễ biên soạn. Theo đó, tùy theo các buổi lễ khác nhau mà nhạc chương cũng khác nhau như:
                                 </div>
-                                <div className="Section1__content__inner__text">
-                                    Đây là nơi Đảng Cộng sản Việt Nam, Đảng ủy Quân sự Trung ương… đã làm việc liên tục; tập trung trí tuệ, năng lực, kinh nghiệm đề ra chủ trương, kế hoạch chiến lược, chiến dịch và giành thắng lợi trọn vẹn cho cuộc kháng chiến thần thánh, giải phóng hoàn toàn miền Nam, thống nhất Tổ quốc, đưa cả nước đi lên Chủ nghĩa Xã hội.
+                                <div className="Section1__content__inner__text" style={{color:"#FFFFFF"}}>
+                                    Tế Giao có nhiều nhạc chương, cụ thể là 10 và mang chữ Thành thể hiện sự thành công.
+                                </div>
+                                <div className="Section1__content__inner__text" style={{color:"#FFFFFF"}}>
+                                    Tế Xã tắc có 7 nhạc chương mang chữ Phong cầu mong được mùa.
+                                </div>
+                                <div className="Section1__content__inner__text" style={{color:"#FFFFFF"}}>
+                                    Tế Miếu có 9 nhạc chương mang chữ Hòa để được hòa hợp.
+                                </div>
+                                <div className="Section1__content__inner__text" style={{color:"#FFFFFF"}}>
+                                    Tế Lịch Đại Đế vương có 6 nhạc chương mang chữ Văn thể hiện trí tuệ.
+                                </div>
+                                <div className="Section1__content__inner__text" style={{color:"#FFFFFF"}}>
+                                    Lễ Đại triều dùng 5 bài mang chữ Bình tỏ ý hòa bình.
+                                </div>
+                                <div className="Section1__content__inner__text" style={{color:"#FFFFFF"}}>
+                                    Lễ Vạn thọ dùng 7 bài mang chữ Thọ với ý nghĩa trường tồn.
+                                </div>
+                                <div className="Section1__content__inner__text" style={{color:"#FFFFFF"}}>
+                                    Lễ Đại yến dùng 5 bài mang chữ Phúc thể hiện phúc lành,...
                                 </div>
                             </div>
                             <div className="Section1__content__inner__row__image">
                                 <div className="Section1__content__inner__image" >
-                                    <img src="/hoangthanhthanglong/3.3.png" />
+                                    <img src="/image/nhanhaccungdinhhue/1.4new.jpg" />
                                 </div>
-                                <div className="Section1__content__inner__video__disc">
-                                    Ảnh: <b>“Phòng trực ban trong Hầm D67 dưới Nhà D67”</b>
+                                <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
+                                    Ảnh: <b>“Biểu diễn Nhã nhạc cung đình Huế tại Duyệt Thị Đường”</b>
                                 </div>
-                                <div className="Section1__content__inner__video__disc">
-                                    Nguồn: <b>Báo VnExpress (Lê Bích)</b>
+                                <div className="Section1__content__inner__video__disc" style={{color:"#FFFFFF"}}>
+                                    Nguồn: <b>Thế giới di sản điện tử</b>
                                 </div>
                             </div>
                         </div>
                         
-                    </div> */}
+                    </div>
                 </div>
             </div>
             </div>

@@ -43,10 +43,7 @@ function SectionMain(){
                         </div>
                         <ul>
                             <li>
-                                Nắm được những thông tin cơ bản về di sản Hát Xoan.
-                            </li>
-                            <li>
-                                Biết cách sưu tầm và sử dụng tư liệu lịch sử để tìm hiểu về Hát Xoan.
+                                Biết được những thông tin cơ bản về nghệ thuật Hát Xoan
                             </li>
                             <li>
                                 Tự hào về di sản và giá trị di sản trong tiến trình phát triển lịch sử nhân loại.

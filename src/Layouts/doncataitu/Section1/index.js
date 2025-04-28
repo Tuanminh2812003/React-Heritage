@@ -226,6 +226,24 @@ function Section1(){
                                 <div className="Section1__content__inner__video__disc">
                                     Nguồn: <b>Bảo tàng phụ nữ Nam Bộ</b>
                                 </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/doncataitu/1.1new.jpeg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Ban đờn ca tài tử Nguyễn Tống Triều dự hội chợ các nước thuộc địa ở Marseille, Pháp (1906).”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>khamphalichsu</b>
+                                </div>
+                                <div className="Section1__content__inner__image" >
+                                    <img src="/image/doncataitu/1.2new.jpeg" />
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Ảnh: <b>“Ban đờn ca tài tử tại Pháp năm 1906”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc">
+                                    Nguồn: <b>khamphalichsu</b>
+                                </div>
                             </div>
                         </div>
                         

@@ -21,6 +21,9 @@ function TNTM(){
                 <Section1/>
                 <Section1p5/>
                 <Section5p3/>
+                <div className="container">
+                    <Section4/>
+                </div>
                 <Section7/>
                 <Footer/>
             </div>

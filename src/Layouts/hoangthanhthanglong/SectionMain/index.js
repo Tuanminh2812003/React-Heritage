@@ -25,7 +25,7 @@ function SectionMain(){
                 <div className="container">
                     <div className="SectionMain__inner">
                         <div className="SectionMain__inner__title">
-                            HOÀNG THÀNH THĂNG LONG
+                            KHU TRUNG TÂM HOÀNG THÀNH THĂNG LONG
                         </div>
                     </div>
                 </div>

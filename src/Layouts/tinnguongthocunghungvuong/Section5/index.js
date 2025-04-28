@@ -25,7 +25,13 @@ function Section5(){
                         <div className="Section5__inner__row1">
                             <div className="Section5__inner__row1__text">
                                 <div className="Section5__inner__text2" style={{color: "#374151"}}>
-                                    Tín ngưỡng thờ cúng Hùng Vương là một loại hình tín ngưỡng dân gian đặc biệt trong tâm thức cộng đồng người Việt, bắt nguồn từ cội rễ văn hóa dân tộc, đồng hành cùng tiến trình lịch sử dân tộc và ngày càng có giá trị to lớn trong đời sống cộng đồng. Ngày 6 tháng 12 năm 2012, tại kỳ họp lần thứ 7 của Ủy ban liên chính phủ về bảo vệ di sản văn hóa phi vật thể ở Paris (Pháp), UNESCO đã chính thức ghi danh Tín ngưỡng thờ cúng Hùng Vương là Di sản văn hóa phi vật thể đại diện của nhân loại. Đây không chỉ là niềm tự hào của riêng người dân Phú Thọ mà còn là vinh dự lớn lao của cả dân tộc Việt Nam, khẳng định giá trị vượt thời gian của tín ngưỡng này trong việc kết nối nguồn cội, phát huy truyền thống uống nước nhớ nguồn và tinh thần đoàn kết dân tộc.
+                                    Tín ngưỡng thờ cúng Hùng Vương bắt nguồn từ Tín ngưỡng thờ cúng tổ tiên, một trong những tín ngưỡng đặc thù, có vị trí hết sức đặc biệt trong đời sống tinh thần và là một trong những thành tố tạo nên bản sắc văn hóa độc đáo của cộng đồng các dân tộc Việt Nam.
+                                </div>
+                                <div className="Section5__inner__text2" style={{color: "#374151"}}>
+                                    Tín ngưỡng thờ cúng Hùng Vương là biểu hiện cao nhất của Tín ngưỡng thờ cúng tổ tiên, thể hiện bản sắc văn hóa đặc trưng của cộng đồng người Việt Nam, đó là lòng biết ơn đối với Hùng Vương và các bậc tiền nhân đã có công dựng nước. Trong tâm thức của người Việt, Hùng Vương là vị thủy tổ khai sinh ra dân tộc Việt. 
+                                </div>
+                                <div className="Section5__inner__text2" style={{color: "#374151"}}>
+                                    Với lòng tôn kính, biết ơn Vua Hùng, cộng đồng người Việt đã tự nguyện thờ cúng Hùng Vương, đưa việc thờ cúng Hùng Vường trở thành tín ngưỡng, là biểu tượng văn hóa tạo nên truyền thống đoàn kết, yêu thương, đùm bọc và cùng vượt qua mọi khó khăn thử thách để xây dựng và bảo vệ Tổ quốc.
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image"

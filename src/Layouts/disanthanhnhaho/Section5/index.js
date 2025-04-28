@@ -15,25 +15,25 @@ function Section5(){
                                     Vị trí địa lí
                                 </div>
                                 <div className="Section5__inner__text2">
-                                    Tại xã Vĩnh Long, huyện Vĩnh Lộc, tỉnh Thanh Hóa.
+                                    Thành Nhà Hồ tọa lạc tại xã Vĩnh Long, huyện Vĩnh Lộc, tỉnh Thanh Hoá, nằm cách trung tâm thành phố 45km, cách Hà Nội 140km. Thành Nhà Hồ là di tích lịch sử được xây dưới triều Trần, là một trong những tòa thành lũy bằng đá hiếm hoi còn sót lại trên thế giới. 
                                 </div>
                                 <div className="Section5__inner__text2">
-                                    Thành nhà Hồ là công trình kiến trúc độc đáo của triều đại nhà Hồ, nổi bật với kỹ thuật xây dựng điêu luyện và giá trị văn hóa đặc sắc. Được dựng bằng đá xanh kiên cố, thành thể hiện dấu ấn mạnh mẽ của thời kì quân chủ Việt Nam.
+                                    Thành tọa lạc ở vị trí giáp ranh đồng bằng và miền núi, cảnh quan đẹp, sông núi hài hòa, địa hình đa dạng tạo lợi thế về quân sự. Phía Bắc có núi Thổ Tượng, phía Tây có núi Ngưu Ngọa, phía Đông có núi Hắc Khuyển, phía Nam còn là nơi hội tụ của sông Mã chảy từ phía Tây về và sông Bưởi chảy tới. Thành Nhà Hồ được kết cấu gồm 3 phần: La thành, Hào thành và Hoàng thành
                                 </div>
                             </div>
                             <div className="Section5__inner__row1__image"
                                 
                             >
                                     <div className="Section5__inner__row1__image__inner"
-                                    style={{backgroundImage: "url('/image/disanthanhnhaho/2.1.jpg')",}}
+                                    style={{backgroundImage: "url('/image/disanthanhnhaho/1.1new.jpg')",}}
                                 >
 
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Ảnh: <b>“Sơ đồ tham quan thành nhà Hồ”</b>
+                                    Ảnh: <b>“Thành nhà Hồ nhìn từ trên cao năm 1920”</b>
                                 </div>
                                 <div className="Section1__content__inner__video__disc">
-                                    Nguồn: <b>Blog Du lịch tử tế</b>
+                                    Nguồn: <b>bienthuy.com</b>
                                 </div>
                             </div>
                         </div>

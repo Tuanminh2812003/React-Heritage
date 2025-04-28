@@ -68,6 +68,34 @@ function Section5(){
                                 </div>
                             </div>
                         </div>
+                        <div className="Section5__inner__row1">
+                            <div className="Section5__inner__row1__text">
+                                <div className="Section5__inner__disc" style={{color:"#374151"}}>
+                                    Nhạc cụ trong Nhã nhạc cung đình
+                                </div>
+                                <div className="Section5__inner__text2" style={{color:"#374151"}}>
+                                    Dàn nhạc cung đình Huế bao gồm các nhạc cụ độc đáo như đàn tỳ bà, đàn nguyệt, sáo trúc, và trống lớn. Mỗi nhạc cụ là biểu tượng văn hóa, mang đậm tính biểu trưng. Khi hòa tấu, những âm thanh ấy không chỉ gợi lên vẻ đẹp của âm nhạc cung đình mà còn tái hiện tinh thần đoàn kết và hòa hợp của xã hội.
+                                </div>
+                                <div className="Section5__inner__text2" style={{color:"#374151"}}>
+                                    Dàn nhạc giao hưởng bao gồm các nhóm nhạc cụ dây, gỗ, đồng, và bộ gõ, với sự phối hợp phức tạp giữa hàng chục nhạc cụ hiện đại như violin, kèn trumpet, và timpani. 
+                                </div>
+                            </div>
+                            <div className="Section5__inner__row1__image"
+                                
+                            >
+                                    <div className="Section5__inner__row1__image__inner"
+                                    style={{backgroundImage: "url('/image/nhanhaccungdinhhue/0.1.jpeg')",}}
+                                >
+
+                                </div>
+                                <div className="Section1__content__inner__video__disc" style={{color:"#374151"}}>
+                                    Ảnh: <b>“Nhạc cụ Nhã nhạc cung đình Huế”</b>
+                                </div>
+                                <div className="Section1__content__inner__video__disc" style={{color:"#374151"}}>
+                                    Nguồn: <b>Tạp chí văn hóa</b>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

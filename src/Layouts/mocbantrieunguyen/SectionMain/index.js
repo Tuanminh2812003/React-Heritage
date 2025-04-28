@@ -24,7 +24,7 @@ function SectionMain(){
                 <div className="container">
                     <div className="SectionMain__inner">
                         <div className="SectionMain__inner__title">
-                            MỘC BẢN TRIỀU NGUYỄN..
+                            MỘC BẢN TRIỀU NGUYỄN
                         </div>
                     </div>
                 </div>
